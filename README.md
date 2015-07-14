@@ -1,2 +1,2 @@
-# testIonic
-This is testing repo
+# Testing Ionic Framework
+Hey All Ionic is really awesome framework.
